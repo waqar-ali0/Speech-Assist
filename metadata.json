@@ -1,0 +1,7 @@
+{
+  "name": "Speech Assist",
+  "description": "Real-Time Accent Reduction and Pronunciation Feedback Tool",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
